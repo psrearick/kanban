@@ -1,6 +1,8 @@
 /node_modules
 /public/js
 /public/css
+/public/dump.sql
+/public/storage
 /storage/*.key
 /vendor
 /.idea
